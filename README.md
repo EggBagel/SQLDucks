@@ -1,2 +1,2 @@
-# SQLDucks
-A Cyber Security Practice activity centered around Rubber Ducks
+# SQL Ducks
+A cyber security practice designed to demonstrate common SQL vulerabilities.
